@@ -3,6 +3,11 @@ body{
 }
 /*google fonts*/
 @font-face {
+  font-family: myFirstFont;
+  src: url(sansation_bold.woff);
+  font-weight: bold;
+}
+@font-face {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
